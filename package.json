@@ -1,6 +1,18 @@
 {
-  "name": "tool_tracker_app",
-  "version": "0.1.0",
+  "name": "tool-tracker-demo",
+  "version": "1.0.0",
+  "description": "A comprehensive tool tracking system designed to solve tool theft and loss problems. Features barcode scanning, job assignment management, and comprehensive reporting to prevent $150,000+ annual tool losses.",
+  "keywords": ["tool-tracking", "barcode-scanner", "inventory-management", "construction-tools", "job-management", "supabase", "nextjs"],
+  "author": "Tool Tracker Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-org/tool-tracker-demo"
+  },
+  "bugs": {
+    "url": "https://github.com/your-org/tool-tracker-demo/issues"
+  },
+  "homepage": "https://github.com/your-org/tool-tracker-demo#readme",
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
